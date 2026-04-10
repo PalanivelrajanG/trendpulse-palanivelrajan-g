@@ -1,8 +1,3 @@
-# Name: Arun Ganesh
-# File: task3_analysis.py
-# Project: TrendPulse - What's Actually Trending Right Now
-# Task: Analyse cleaned trend data using Pandas and NumPy
-
 import pandas as pd
 import numpy as np
 
